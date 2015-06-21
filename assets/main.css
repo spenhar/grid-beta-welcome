@@ -493,7 +493,7 @@ body {
     position: relative;
     -webkit-overflow-scrolling: touch;
     color: white;
-    background: url(/account-bg.jpg) no-repeat center center fixed;
+    background: url(account-bg.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
